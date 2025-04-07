@@ -2,44 +2,6 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stworki Pooki - Regulamin i Rangi</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f0f2f5;
-      color: #333;
-      margin: 0;
-      padding: 2rem;
-    }
-    h1, h2, h3 {
-      color: #4b0082;
-    }
-    section {
-      margin-bottom: 2rem;
-      padding: 1rem;
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-    a {
-      color: #0077ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .footer {
-      text-align: center;
-      font-size: 0.9rem;
-      margin-top: 3rem;
-      color: #555;
-    }
-  </style>
 </head>
 <body>
   <h1>📘 Stworki Pooki – Regulamin i System Kar</h1>
